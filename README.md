@@ -18,4 +18,14 @@ The points in the figure below represents the optical centers of the cameras at 
  </h2>
  
  # Task 2
+ 4 data points are sampled and RANSAC algorithm is applied to consider only the inliers.Following is the one of the result after applying RANSAC to the SIFT keypoints detected.
+ <h2 align = "center">
+  <img src = "Results/Task_2/DSC_9752.png">
+ </h2>
+ 
+ # Task 3
+ Pose refinement with non-linear optimization is done. Following is the short gif of the result after applying non-linear optimization.
+ <h2 align = "center">
+  <img src = "Results/Task_3/sol_3_box.gif">
+ </h2>
  
